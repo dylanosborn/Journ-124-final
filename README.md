@@ -15,7 +15,7 @@ I found it interesting that Wednesday had by far the most reports filed out of a
 
 ## Data visualizations
 The line chart shows how many incidents are being reported each minute. Those huge spikes occur at almost every full hour. I do not know why, it isn’t explained at all, but I would assume it is because when asked when the incident occurred, people are unsure and estimate and simply answer with the closest full hour. 
-![alt text](Amount of incidents reported by time of day.png)
+![Description](Amountofincidentsreportedbytimeofday.png)
 
 The column chart shows how the reports are distributed across each SF neighborhood. The Mission, South of Market, and the Tenderloin have significantly higher amounts of incidents that occurred within them than all of the other neighborhoods. On the other hand, the Presidio, McLaren Park, Lincoln Park, and Seacliff all had 3 or less incidents reported within them.
 
