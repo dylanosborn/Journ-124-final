@@ -15,13 +15,18 @@ I found it interesting that Wednesday had by far the most reports filed out of a
 
 ## Data visualizations
 The line chart shows how many incidents are being reported each minute. Those huge spikes occur at almost every full hour. I do not know why, it isn’t explained at all, but I would assume it is because when asked when the incident occurred, people are unsure and estimate and simply answer with the closest full hour. 
+
 ![Description](Amountofincidentsreportedbytimeofday.png)
+
 
 The column chart shows how the reports are distributed across each SF neighborhood. The Mission, South of Market, and the Tenderloin have significantly higher amounts of incidents that occurred within them than all of the other neighborhoods. On the other hand, the Presidio, McLaren Park, Lincoln Park, and Seacliff all had 3 or less incidents reported within them.
 
+![Description](Amountofincidentsreported,bydayoftheweek.png)
 
 
 The bar chart compares how many incidents were committed or occurred on each day of the week. The amounts are largely similar but it is interesting that Tuesday and Wednesday have the highest number of reports. I would’ve assumed it would be on the weekend when people aren’t at work that the most reports are placed, or at least on Thursdays or Fridays when people are drinking the most. 
+
+![describe](Amountofincidentsreported06_01-06_28,bySFneighborhood.png)
 
 
 
