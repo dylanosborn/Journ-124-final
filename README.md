@@ -1,6 +1,6 @@
 # All SFPD reports since the beginning of June, organized by manner and location of crime.
 
-Source: https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/about_data
+[This is my source.](https://data.sfgov.org/Public-Safety/Police-Department-Incident-Reports-2018-to-Present/wg3w-h783/about_data)
 
 In this project, I explore all reports to SFPD from June 1st 2026, up until today, June 28th. The dataset has lots of variabels, such as the time of day and day of the week that both the incident and report took place at. 
 
